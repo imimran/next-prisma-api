@@ -1,0 +1,26 @@
+
+
+Create Next Project:
+    npx create-next-app name
+
+Install Prisma & client:
+    npm i prisma
+    npm i @prisma/client
+
+    Init Prisma:
+        npx prisma init 
+
+    migrate prisma:
+        npx prisma migrate dev
+
+    Open DB interface:
+        npx prisma studio
+    
+        
+
+    
+
+
+
+
+
